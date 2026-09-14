@@ -13,7 +13,7 @@ Also using go, python and kotlin for some projects :)
 - ROKAF Intelligence Information Systems Management Group: 2022.10 - 2024.07
 - [GDGoc Konkuk](https://github.com/gdgoc-konkuk): 2024.07 - 2025.07
 - University of Western Australia, Exchange Student: 2025.07 - 2025.11
-- Musinsa, Personalization team: 2026.03 - current
+- Musinsa, Personalization Team, Intern: 2026.03 - 2026.09
 
 ## Projects
 - HR System for goverment workers in ROKAF
